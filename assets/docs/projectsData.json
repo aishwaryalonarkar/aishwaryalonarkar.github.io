@@ -1,0 +1,68 @@
+[
+    {
+        "projectLink":"https://github.com/aishwaryalonarkar/cowin-aishwaryalonarkar.github.io",
+        "projectName":"Covid Vaccine Slot Monitoring",
+        "projectImage":"../../../assets/images/covid.gif",
+        "projectContent":"This Site is for Monitoring Cowin Slots Many of us have tried to book the Vaccine Slots and seen 'No Slots Available' If you have also missed the available slots due to inconsistency of the time when the slots open, Here you can Enter the Pincode of your region and let the site monitor the slots for you every 2 minutes. As soon as it finds an Available Slot the site will notify you with an email Don't worry if you missed the notification you can still see the logs and know exactly at what time the slot opens everyday !!! 😀 Do Leave a Star on my Github if this helped you"
+    },
+    {
+        "projectLink":"https://github.com/aishwaryalonarkar/file_system-",
+        "projectName":"File System Simulator",
+        "projectImage":"../../../assets/images/file.gif",
+        "projectContent":"Linux File System Simulator using C. Performs tasks like Reads, Link, Remove file, Directory Make, Directory Remove, Directory Change, List Directory, List Used Space"
+    },
+    {
+        "projectLink":"None",
+        "projectName":"Food per Kg",
+        "projectImage":"../../../assets/images/food4.gif",
+        "projectContent":"FoodPerKg is an website application for ordering food Online in bulk. The FoodPerKg allows to filter food categories based on vegan and non-veg, cuisines, courses etc. The Frontend was build in AngularJs and Backend in NodeJs, MySQL for database and Cashfree was used for Payment Gateway."
+    },
+    {
+        "projectLink":"https://github.com/aishwaryalonarkar/multi_threaded_webserver",
+        "projectName":"Multi Threaded Webserver",
+        "projectImage":"../../../assets/images/multithread.gif",
+        "projectContent":"Multi Threaded Webserver using C using Producer Consumer Model. The Solution will never have and concurrency problem because it satisfies mutual exclusion by Mutex Locks which will allow only one thread to execute in the critical section which in this case is the buffer and n_items_in_buffer variable. The Consumer cannot read if the sem_full is 0 that means there are no items to read in the buffer. The Producer will not write to the buffer if sem_emty is max that means it is already full. The Solution will not lead to deadlock as there is no blocking execution taking place within the lock."
+    },
+    {
+        "projectLink":"https://github.com/aishwaryalonarkar/pintool",
+        "projectName":"Pintool",
+        "projectImage":"../../../assets/images/pin.gif",
+        "projectContent":"In this project I have Monitored user inputs and marked it as tainted in the UT_Hash which are Fgets, gets and argv Monitored the string operations such as strcpy, strcat and checked if the source address of it is tainted (propagated from a user input) and marked the destination address as tainted if the source as well is tainted. For tracing the propagation of the tainted byte, I have added the source bytes to the UT_Hash of each tainted byte. Monitored the return and jump instructions and checked if the target address is tainted. If the address of the return is tainted, terminate the program but before that raise an alarm and print the stack traces. To get the stack traces, I have maintained a vector called StackTrace. I have checked if the instruction is a call or a return using INS_IsRet and INS_IsCall. To get the correct addresses, I have checked the image is valid and is a main executable. If it satisfies all these then push the address to the vector. If there is a Is_Ret, pop an address from the vector. To get stack traces of each tainted byte, I have pushed the StackTrace vector to the UT_Hash of each tainted byte."
+    },
+    {
+        "projectLink":"https://github.com/aishwaryalonarkar/Rust-Unix-Shell",
+        "projectName":"Rust Unix Shell",
+        "projectImage":"../../../assets/images/rust.gif",
+        "projectContent":"Implementation of Unix Shell in Rust. Following are the features to be impelemented in the Unix Shell with Rust: a. cmd_history: Displays the history of commands entered in the command line. b. rmallexn(remove all except n): Remove all the files and directories in the directory path mentioned in the argument except the file mention c. listDir [-l][-a][-tree][-color] : List the contents of the directory with optional argumen d. rev_search(Reverse search and execute): Search in the history to check if the substring entered matches any entry and accordingly execute e. sortbytype (Sort by type): This command is used to combine multiple files of similar pattern or type and it will add those files into a one separate sub directo f. pipe operator(|): This command is used to combine multiple command and run them sequential g. input redirection (<): This command redirects the input from a file and passes it to a command as parameter insted of passing the parameter from standard inp h. output (>) : Saves the output of the command into a file rather than displaying it on the conso i. change directory (cd) : This command is used to change the directory and travel back and forth into the directori j. quit: Use quit to get out of rust command line."
+    },
+    {
+        "projectLink":"None",
+        "projectName":"Milk Delivery and Reconcilation",
+        "projectImage":"../../../assets/images/milk.gif",
+        "projectContent":"An Online Portal for Delivering Dairy Product for Local Vendors and keep a track on monthly Reports where Vendor delivers dairy products everyday and charge for the product on monthly basis. The portal Generate Bills on Monthly basis for delivered products to individual customers, Generates online Payment link for the Bill and send the link to customer’s Email. Reconciling the Monthly Amount Paid and Balances. Frontend was build using Angular, the backend was build in NodeJs and integrated with payment gateway. Mysql was used for database."
+    },
+    {
+        "projectLink":"None",
+        "projectName":"Caste Validity System",
+        "projectImage":"../../../assets/images/ancryot.gif",
+        "projectContent":"Project for Smart India Hackathon 2018 organised by Government of India. The topic selected for competition was 'Caste Validity System'. This was an Online Caste Validation System which saves User time and having the need to physically go to the Office for documents Validation. Provided solutions for 3 problem statements in first part of the competition. For the final round the solution for 'Caste Validity System' was selected. As a part of solution we planned and developed the project using Flask as a backend, AngularJs-4 for frontend and mysql for database"
+    },
+    {
+        "projectLink":"None",
+        "projectName":"Hybrid-Identity based Encryption Approach for Cloud Security",
+        "projectImage":"../../../assets/images/encrypt.gif",
+        "projectContent":"To achieve the data security the methods like IBE (Identity Based Encryption),ABE(Attribute Based Encryption) etc. are widely used in cloud computing environment. Here novel hybrid cloud security method is proposed in order to deliver both efficient revocation and enhanced security using .Net"
+    },
+    {
+        "projectLink":"https://github.com/aishwaryalonarkar/baniya-site",
+        "projectName":"Online Grocery Store for Pandemic",
+        "projectImage":"../../../assets/images/grocery.gif",
+        "projectContent":"Project for Online Grocery Store. In the Pandemic Situation people as well as the store owners faced problems to order or deliver everyday necessities and essentials. The online grocery store helped overcome this problem. It was live from July to September. Developed Frontend for Grocery store using AngularJs, Integrated with Backend - NodeJs Created PWA for the Website"
+    },
+    {
+        "projectLink":"None",
+        "projectName":"Steganography",
+        "projectImage":"../../../assets/images/stego.gif",
+        "projectContent":"This was a Diploma Final Year Project. Steganography is the art and science of writing hidden messages in such a way that no one, apart from the sender and intended recipient, suspects the existence of the message, a form of security through obscurity. The Project was to hide the message intended to send behind any text/media file. It was Developed in Java."
+    }
+  ]

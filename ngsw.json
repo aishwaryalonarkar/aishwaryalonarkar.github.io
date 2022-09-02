@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1662145802078,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.c1dd3bf7647e2de4b3bf.js",
+        "/manifest.webmanifest",
+        "/polyfills.5851e6ac6a8655461f26.js",
+        "/runtime.7b63b9fd40098a2e8207.js",
+        "/styles.26c6c9d5772f99695b31.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/docs/Resume_Aishwarya Lonarkar.pdf",
+        "/assets/docs/projectsData.json",
+        "/assets/docs/skills.json",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/400img.jpg",
+        "/assets/images/ancryot.gif",
+        "/assets/images/covid.gif",
+        "/assets/images/encrypt.gif",
+        "/assets/images/encrypt.jpeg",
+        "/assets/images/file.gif",
+        "/assets/images/food.gif",
+        "/assets/images/food1.gif",
+        "/assets/images/food2.gif",
+        "/assets/images/food4.gif",
+        "/assets/images/ghost.cur",
+        "/assets/images/grocery.gif",
+        "/assets/images/milk.gif",
+        "/assets/images/multithread.gif",
+        "/assets/images/pin.gif",
+        "/assets/images/plane2.png",
+        "/assets/images/plane3.gif",
+        "/assets/images/plane4.ani",
+        "/assets/images/plane4.gif",
+        "/assets/images/plane5.gif",
+        "/assets/images/planenobg1.png",
+        "/assets/images/planenobg5.png",
+        "/assets/images/rust.gif",
+        "/assets/images/stego.gif",
+        "/assets/images/transition1.gif",
+        "/assets/images/validity.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/docs/Resume_Aishwarya Lonarkar.pdf": "a8125b70d1e5bf56eb0ac516a94b10f9192e74fe",
+    "/assets/docs/projectsData.json": "12ae59cad65e3d10ea5d6d2cc84a8a632b7a9423",
+    "/assets/docs/skills.json": "f76fb22607cfe6ff89d7504c0ff51e27d83bc18b",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/400img.jpg": "3a445d24aca8341ed635532ec26b960c0723c378",
+    "/assets/images/ancryot.gif": "272b13c6c1cbb883d690d8cdcb4d25c87fc83b22",
+    "/assets/images/covid.gif": "a7b781c1f904fe5e911ef2a63e8b3242c9b8fb17",
+    "/assets/images/encrypt.gif": "1a15d5eebf3ae6f74d4dbcb111698e5cb27b0d6d",
+    "/assets/images/encrypt.jpeg": "0c878fb7fabc359fb55e3944abe92c93d9c03048",
+    "/assets/images/file.gif": "e9cd6dd38d5ce9a04e08ecfa443d3804f4a53d6e",
+    "/assets/images/food.gif": "e39d5fb4c744d268d1fbb2f518d7db52859f833c",
+    "/assets/images/food1.gif": "debd72c833534ff940db2a3b22940d12ec85e2c4",
+    "/assets/images/food2.gif": "624d240064ed1ba7d875e41e7dbb931bb5139f1c",
+    "/assets/images/food4.gif": "35a13c62fe210808796363d9246fd75a33eccac3",
+    "/assets/images/ghost.cur": "af7c22c7e0efe0bba855e15a86abfa7edf950ac6",
+    "/assets/images/grocery.gif": "b45fd56f92ecd472f23bd1bfc06032ff13107b74",
+    "/assets/images/milk.gif": "e171b3eea0a7ab3f42080a5599aa3c9216cbc5de",
+    "/assets/images/multithread.gif": "74069aba49484d47a3d610498d22df256736daa9",
+    "/assets/images/pin.gif": "bce8516341cb30c28eb46a59b06176d0a8fac9b2",
+    "/assets/images/plane2.png": "59c4e5bef84bb1b32b587ffcb96277fefaf415e5",
+    "/assets/images/plane3.gif": "d1bb3228b6239bb08e30dc1956dd9869aaf04ec7",
+    "/assets/images/plane4.ani": "ae5477bc9dddd8c4df369f84428335905d7a33e6",
+    "/assets/images/plane4.gif": "cc9fc85acd37e7af28cad316aa2a5a3da3242a78",
+    "/assets/images/plane5.gif": "38df1a84e24870449fab8a669b14e97085f52d93",
+    "/assets/images/planenobg1.png": "ac55cdd182107f27d8bf7c1284aa4c7d827e22d6",
+    "/assets/images/planenobg5.png": "2b6f7370ac6d2ef16972dde2c5fcb60335474c1c",
+    "/assets/images/rust.gif": "31bf5962bd6b4aa7351f9754382f43660cc16d73",
+    "/assets/images/stego.gif": "541457c103bdd10aa9387f3c8603a29ad18994dc",
+    "/assets/images/transition1.gif": "8350aac8b53e5ca531a717f06afd18e94ee278a2",
+    "/assets/images/validity.gif": "3bfac19cc739a8e023e8363086cd4ed503b0bb2c",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "b903c4628709c2effed515368bf88ac3343cdf6c",
+    "/main.c1dd3bf7647e2de4b3bf.js": "409d2224c72e2cb85adabbb0bb8a697b93f22946",
+    "/manifest.webmanifest": "e14484a4f652e2f158ec8045c44ef1b6d61e9f2d",
+    "/polyfills.5851e6ac6a8655461f26.js": "587930b9b17d188b4b5cd9c4a2f5b0595f155fd7",
+    "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.26c6c9d5772f99695b31.css": "5da40f633c7d122ba00457adecbe8c68f10b1c59"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
